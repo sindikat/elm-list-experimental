@@ -2,7 +2,7 @@
     "version": "1.0.0",
     "summary": "Testing ground for experimental List functions",
     "repository": "https://github.com/sindikat/elm-list-experimental.git",
-    "license": "BSD3",
+    "license": "CC0",
     "source-directories": [
         "src"
     ],
